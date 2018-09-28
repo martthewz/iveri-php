@@ -1,12 +1,12 @@
 {
-    "name": "stephenlake/iveri",
+    "name": "chriskivaze/iveri-php",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Stephen Lake",
-            "email": "stephen-lake@live.com",
-            "homepage": "https://github.com/stephenlake",
+            "email": "chriskivaze@gmail.com",
+            "homepage": "https://github.com/chriskivaze",
             "role": "Developer"
         }
     ],
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "StephenLake\\Iveri\\": "src"
+            "ChrisKivaze\\Iveri\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "StephenLake\\Iveri\\": "src"
+            "ChrisKivaze\\Iveri\\": "src"
         }
     },
     "config": {
